@@ -171,7 +171,9 @@ print("Bit error rate:", np.mean(np.array(bits[:len(decoded_bits)]) != np.array(
 
 ```
 # Output Waveform
+
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/0360daa7-fd71-4089-8d71-f8f11d8cc91b" />
 <img width="1201" height="1012" alt="image" src="https://github.com/user-attachments/assets/1fdf1357-b537-4282-a744-8d22b226683a" />
+
 # Results
 Thus , a simple Python program for the modulation and demodulation of ASK and FSK executed successfully.
